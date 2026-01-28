@@ -1,2 +1,2 @@
-# brightweb
-this website is a very useful website where you can publish your website
+# BRIGHTWEB
+this website is very useful because you can publish the web that you make 
